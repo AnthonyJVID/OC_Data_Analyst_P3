@@ -52,7 +52,7 @@ Ce projet s’inscrit dans la stratégie de transformation numérique de **Lapla
 
 ## 🛠️ Technologies utilisées
 
-- **SQL** (via SQLite / PostgreSQL)
+- **SQL** (via MySQL / PostgreSQL)
 - **Excel** pour le dictionnaire
 - **Draw.io / dbdiagram.io** pour la modélisation
 - **PDF** pour la restitution des livrables
