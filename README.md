@@ -27,7 +27,7 @@ Ce projet s’inscrit dans la stratégie de transformation numérique de **Lapla
    - Diagramme final validé dans `P3_schéma.pdf`
 
 4. **Implémentation de la base**
-   - Création des tables sous SQLite (ou PostgreSQL)
+   - Création des tables sous MySQL
    - Insertion des données
 
 5. **Extraction et requêtes SQL**
